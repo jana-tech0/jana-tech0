@@ -1,7 +1,7 @@
 Hey, I'm Jana Dev! <br>
 A developer who codes with passion, creates solutions! <br> 
 <br>
-B.Tech | III Year Engineering Student
+B.Tech | III Year Engineering Student <br>
 Rajiv Gandhi University of Knowledge and Technology
 <br>
 🖥 MERN Developer <br>
