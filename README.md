@@ -1,4 +1,4 @@
-Hey, I'm Jana Dev!
+<h2>Hey, I'm Jana Dev! </h2>
  <br>
 A developer who codes with passion, creates solutions! <br> 
 <br>
