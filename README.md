@@ -5,8 +5,9 @@ From responsive UIs to robust APIs and smooth deployments — I handle it all.
  </h3>
  <br> 
 <br>
-B.Tech | III Year Engineering Student <br>
-Rajiv Gandhi University of Knowledge and Technology
+<h4>B.Tech | III Year Engineering Student</h4>
+<br>
+<h4>Rajiv Gandhi University of Knowledge and Technology</h4>
 <br>
 
 🖥 MERN Developer <br>
