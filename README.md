@@ -1,6 +1,9 @@
 <h2>Hey, I'm Jana Dev! </h2>
  <br>
-A developer who codes with passion, creates solutions! <br> 
+ <h3>
+From responsive UIs to robust APIs and smooth deployments — I handle it all.
+ </h3>
+ <br> 
 <br>
 B.Tech | III Year Engineering Student <br>
 Rajiv Gandhi University of Knowledge and Technology
