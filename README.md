@@ -11,8 +11,8 @@ From responsive UIs to robust APIs and smooth deployments — I handle it all.
 Reach out to me at: janu.incloud.gmail.com <br>
 <br>
 Connect with me: <br>
- <button>Twitter </button>
+ <button style={background-color: red;}>Twitter </button> <br>
 Twitter: @TalariJana34110 <br>
 Instagram: @jana_1199_ <br>
 </h4>
-<button>Twitter </button>
+
